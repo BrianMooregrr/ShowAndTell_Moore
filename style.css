@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(188, 140, 120);
+    display: block;
+    text-align: center;
+    margin: 0%;
+
+}
+
+h1 {
+    justify-self: center;
+}
